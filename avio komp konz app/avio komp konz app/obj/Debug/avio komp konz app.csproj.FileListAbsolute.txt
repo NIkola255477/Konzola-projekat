@@ -1,0 +1,7 @@
+C:\Users\Korisnik\Desktop\Posebni slucaj\avio komp konz app\avio komp konz app\bin\Debug\avio komp konz app.exe.config
+C:\Users\Korisnik\Desktop\Posebni slucaj\avio komp konz app\avio komp konz app\bin\Debug\avio komp konz app.exe
+C:\Users\Korisnik\Desktop\Posebni slucaj\avio komp konz app\avio komp konz app\bin\Debug\avio komp konz app.pdb
+C:\Users\Korisnik\Desktop\Posebni slucaj\avio komp konz app\avio komp konz app\obj\Debug\avio komp konz app.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Posebni slucaj\avio komp konz app\avio komp konz app\obj\Debug\avio komp konz app.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Posebni slucaj\avio komp konz app\avio komp konz app\obj\Debug\avio komp konz app.exe
+C:\Users\Korisnik\Desktop\Posebni slucaj\avio komp konz app\avio komp konz app\obj\Debug\avio komp konz app.pdb
